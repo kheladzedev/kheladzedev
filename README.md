@@ -22,26 +22,28 @@
 
 ```python
 class IOSDeveloper {
-         def __init__(self):
-        self.name = "Edward"
-        self.role = "IOSDeveloper"
-        self.language_spoken = ["zh_CN", "en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = iOSDeveloper()
-me.say_hi()
- let me = Edward {
-  pronouns: "she" | "her",
-  code: [Swift, Objective-C, C++, Java],
-  tools: [Xcode, Git, Cocoapods, Carthage, Firebase],
-  architecture: ["MVVM", "VIPER", "Clean Architecture"],
-  techCommunities: {
-                        coorganizer: "Cocoaheads",
-                        speaker: "iOSCon",
-                        mentor: "Men Who Code"
-                      },
- challenge: "I am currently working on personal projects to improve my knowledge of SwiftUI and Combine"
+  var myStackDictionary: [String: [String]] = [
+        
+        "Principles":       ["OOP", "SOLID"]
+        "Layout":           ["UIKit", "AutoLayout", "SnapKit", "Storyboard"]
+        "Dependensies":     ["CocoaPods", "SPM", "Carthage"]
+        "Storage":          ["Core Data", "UserDefaults", "FileManager", "Realm"]
+        "Networking":       ["URLSession", "JSON Parse", "REST API", "Firebase"]
+        "Multithreading":   ["GCD", "DQ's"]
+        "Arch. patterns":   ["MVC", "MVVM", "MVVM+C", "MVP", "MVP+C"]
+        "Struct. patterns": ["Delegate", "Singleton", "Factory", "Observer", "Facade"]
+        "GUI":              ["Git", "GitHub"]
+        "Graphics":         ["Figma", "Photoshop"]
+    ]
+    
+    var otherTechnologies: [String] = [
+        "SwiftUI",
+        "MapKit",
+        "Push / Local Notifications",
+        "Multimedia (AVFoundation, Core Audio, AVKit)",
+        "BLE",
+        "iCloud",
+        "Core Animation",
+        "RXSwift",
+        "AppStore / TestFlight"
 }
