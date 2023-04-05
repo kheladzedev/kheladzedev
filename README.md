@@ -36,7 +36,7 @@ class IOSDeveloper {
   techCommunities: {
                         coorganizer: "Cocoaheads",
                         speaker: "iOSCon",
-                        mentor: "Women Who Code"
+                        mentor: "Men Who Code"
                       },
  challenge: "I am currently working on personal projects to improve my knowledge of SwiftUI and Combine"
 }
