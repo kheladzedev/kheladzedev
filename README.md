@@ -21,8 +21,10 @@
 </a>  
 
 ```python
-class IOSDeveloper {
-  var myStackDictionary: [String: [String]] = [
+   class IOSDeveloper {
+
+
+     var myStackDictionary: [String: [String]] = [
         
         "Principles":       ["OOP", "SOLID"]
         "Layout":           ["UIKit", "AutoLayout", "SnapKit", "Storyboard"]
@@ -36,7 +38,8 @@ class IOSDeveloper {
         "Graphics":         ["Figma", "Photoshop"]
     ]
     
-    var otherTechnologies: [String] = [
+     var otherTechnologies: [String] = [
+
         "SwiftUI",
         "MapKit",
         "Push / Local Notifications",
