@@ -4,36 +4,15 @@
 ```swift
 class IOSDeveloper {
 
-    let name = "Edward Kheladze"
-    let age = 27
-    let languages = ["Swift", "Obj-C"]
-    
-    var myStackDictionary: [String: [String]] = [
-        "Principles":       ["OOP", "SOLID"],
-        "Layout":           ["UIKit", "AutoLayout", "SnapKit", "Storyboard"],
-        "Dependensies":     ["CocoaPods", "SPM", "Carthage"],
-        "Storage":          ["Core Data", "UserDefaults", "FileManager", "Realm"],
-        "Networking":       ["URLSession", "JSON Parse", "REST API", "Firebase"],
-        "Multithreading":   ["GCD", "DQ's"],
-        "Arch. patterns":   ["MVC", "MVVM", "MVVM+C", "MVP", "MVP+C"],
-        "Struct. patterns": ["Delegate", "Singleton", "Factory", "Observer", "Facade"],
-        "GUI":              ["Git", "GitHub"],
-        "Graphics":         ["Figma", "Photoshop"]
-    ]
-    
-    var otherTechnologies: [String] = [
-        "SwiftUI",
-        "MapKit",
-        "Push / Local Notifications",
-        "Multimedia (AVFoundation, Core Audio, AVKit)",
-        "BLE",
-        "iCloud",
-        "Core Animation",
-        "RXSwift",
-        "AppStore / TestFlight"
-    ]
-    
-    func sayHello() {
-        print("Hello,my name is Edward)
-    }
+ let me = Edward {
+  pronouns: "she" | "her",
+  code: [Swift, Objective-C, C++, Java],
+  tools: [Xcode, Git, Cocoapods, Carthage, Firebase],
+  architecture: ["MVVM", "VIPER", "Clean Architecture"],
+  techCommunities: {
+                        coorganizer: "Cocoaheads",
+                        speaker: "iOSCon",
+                        mentor: "Women Who Code"
+                      },
+ challenge: "I am currently working on personal projects to improve my knowledge of SwiftUI and Combine"
 }
