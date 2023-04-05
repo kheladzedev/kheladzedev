@@ -43,31 +43,3 @@ class IOSDeveloper {
         print("Привет, меня зовут \(name). Я iOS разработчик и являюсь экспертом в использовании следующих технологий: \(languages.joined(separator: ", ")).")
     }
 }
-
-// Мой стек технологий
-let myStack = IOSDeveloper()
-print("\n=== Мой стек технологий ===")
-for (category, technologies) in myStack.myStackDictionary {
-    print("\n", category, ":")
-    for technology in technologies {
-        var techColor: String
-        switch technology {
-        case "Swift", "UIKit", "AutoLayout", "Firebase":
-            techColor = "\u{001B}[34m" // синий
-        case "Obj-C", "CocoaPods", "Core Data":
-            techColor = "\u{001B}[33m" // оранжевый
-        default:
-            techColor = "\u{001B}[0m" // по умолчанию
-        }
-        print(techColor + technology)
-    }
-}
-
-// Информация обо мне и моих навыках
-print("\n=== Обо мне ===")
-print("\u{001B}[34mИмя:\u{001B}[0m", myStack.name)
-print("\u{001B}[34mВозраст:\u{001B}[0m", myStack.age)
-print("\u{001B}[34mЯзыки программирования:\u{001B}[0m", myStack.languages.joined(separator: ", "))
-print("\u{001B}[34mДругие технологии:\u{001B}[0m")
-for technology in myStack.otherTechnologies {
-    print("\u{001B}[33m" + technology) // оранжевый
