@@ -32,7 +32,7 @@ class IOSDeveloper {
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = iOSDeveloper()
 me.say_hi()
  let me = Edward {
   pronouns: "she" | "her",
