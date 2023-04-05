@@ -40,6 +40,6 @@ class IOSDeveloper {
     ]
     
     func sayHello() {
-        print("Привет, меня зовут \(name). Я iOS разработчик и являюсь экспертом в использовании следующих технологий: \(languages.joined(separator: ", ")).")
+        print("Hello,my name is Edward)
     }
 }
