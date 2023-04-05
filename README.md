@@ -21,9 +21,19 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
-```swift
+```python
 class IOSDeveloper {
+         def __init__(self):
+        self.name = "Edward"
+        self.role = "IOSDeveloper"
+        self.language_spoken = ["zh_CN", "en_US"]
 
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
  let me = Edward {
   pronouns: "she" | "her",
   code: [Swift, Objective-C, C++, Java],
