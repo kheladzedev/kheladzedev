@@ -42,6 +42,12 @@
         "Core Animation",
         "RXSwift",
         "AppStore / TestFlight"
-]
+    ]
+      func sayHello() {
+         print("Thanks for dropping by, hope you find some of my work interesting.")
 
+    }
 }
+
+let me = IOSDeveloper()
+me.sayHello()
