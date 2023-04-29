@@ -10,7 +10,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/kheladzedev)
 
 ```swift
-   class IOSDeveloper {
+ class IOSDeveloper {
      
      let name = "Edward"
      let age = 26
