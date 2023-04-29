@@ -11,6 +11,10 @@
 
 ```swift
    class IOSDeveloper {
+     
+     let name = "Edward"
+     let age = 26
+     let languages = ["Swift", "Obj-C"]
 
 
      var myStackDictionary: [String: [String]] = [
@@ -38,4 +42,6 @@
         "Core Animation",
         "RXSwift",
         "AppStore / TestFlight"
+]
+
 }
