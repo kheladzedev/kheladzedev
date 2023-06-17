@@ -20,7 +20,7 @@ class IOSDeveloper {
         "Layout": ["UIKit", "AutoLayout", "SnapKit", "Storyboard"],
         "Dependencies": ["CocoaPods", "Swift Package Manager", "Carthage"],
         "Storage": ["Core Data", "UserDefaults", "Realm"],
-        "Networking": ["URLSession", "JSON Parsing", "REST API", "Firebase"],
+        "Networking": ["URLSession", "JSON Parsing", "REST API", "Google", "Firebase"],
         "Architectural Patterns": ["MVC", "MVVM", "MVVM+C", "MVP", "MVP+C"],
         "Version Control": ["Git", "GitHub"],
         "Graphics": ["Figma"],
