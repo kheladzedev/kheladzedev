@@ -10,44 +10,44 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/kheladzedev)
 
 ```swift
- class IOSDeveloper {
-     
-     let name = "Edward"
-     let age = 26
-     let languages = ["Swift", "Obj-C"]
-
-
-     var myStackDictionary: [String: [String]] = [
-        
-        "Principles":       ["OOP", "SOLID"]
-        "Layout":           ["UIKit", "AutoLayout", "SnapKit", "Storyboard"]
-        "Dependensies":     ["CocoaPods", "SPM", "Carthage"]
-        "Storage":          ["Core Data", "UserDefaults", "FileManager", "Realm"]
-        "Networking":       ["URLSession", "JSON Parse", "REST API", "Firebase"]
-        "Multithreading":   ["GCD", "DQ's"]
-        "Arch. patterns":   ["MVC", "MVVM", "MVVM+C", "MVP", "MVP+C"]
-        "Struct. patterns": ["Delegate", "Singleton", "Factory", "Observer", "Facade"]
-        "GUI":              ["Git", "GitHub"]
-        "Graphics":         ["Figma", "Photoshop"]
+class IOSDeveloper {
+    let name: String
+    let age: Int
+    let languages: [String]
+    
+    var skills: [String: [String]] = [
+        "Principles": ["OOP", "SOLID"],
+        "Layout": ["UIKit", "AutoLayout", "SnapKit", "Storyboard"],
+        "Dependencies": ["CocoaPods", "Swift Package Manager", "Carthage"],
+        "Storage": ["Core Data", "UserDefaults", "FileManager", "Realm"],
+        "Networking": ["URLSession", "JSON Parsing", "REST API", "Firebase"],
+        "Multithreading": ["GCD", "Dispatch Queues"],
+        "Architectural Patterns": ["MVC", "MVVM", "MVVM+C", "MVP", "MVP+C"],
+        "Structural Patterns": ["Delegate", "Singleton", "Factory", "Observer", "Facade"],
+        "Version Control": ["Git", "GitHub"],
+        "Graphics": ["Figma", "Photoshop"],
+        "Other Technologies": ["SwiftUI", "MapKit", "Push/Local Notifications", "Multimedia (AVFoundation, Core Audio, AVKit)", "BLE", "iCloud", "Core Animation", "RxSwift", "App Store/TestFlight"],
+        "Additional Knowledge": ["Unit Testing", "UI Testing", "Code Review", "Performance Optimization"]
     ]
     
-     var otherTechnologies: [String] = [
-
-        "SwiftUI",
-        "MapKit",
-        "Push / Local Notifications",
-        "Multimedia (AVFoundation, Core Audio, AVKit)",
-        "BLE",
-        "iCloud",
-        "Core Animation",
-        "RXSwift",
-        "AppStore / TestFlight"
-    ]
-      func sayHello() {
-         print("Thanks for dropping by, hope you find some of my work interesting.")
-
+    init(name: String, age: Int, languages: [String]) {
+        self.name = name
+        self.age = age
+        self.languages = languages
+    }
+    
+    func introduce() {
+        print("Hi there! I'm \(name), an iOS Developer with \(age) years of experience.")
+        print("I specialize in developing iOS apps using Swift and have a strong skillset:")
+        
+        for (category, skills) in skills {
+            print("- \(category): \(skills.joined(separator: ", "))")
+        }
+        
+        print("I'm passionate about creating user-friendly and visually appealing apps.")
+        print("Let's work together to build something amazing!")
     }
 }
 
-let me = IOSDeveloper()
-me.sayHello()
+let me = IOSDeveloper(name: "YourName", age: 25, languages: ["Swift"])
+me.introduce()
