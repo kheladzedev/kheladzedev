@@ -19,14 +19,12 @@ class IOSDeveloper {
         "Principles": ["OOP", "SOLID"],
         "Layout": ["UIKit", "AutoLayout", "SnapKit", "Storyboard"],
         "Dependencies": ["CocoaPods", "Swift Package Manager", "Carthage"],
-        "Storage": ["Core Data", "UserDefaults", "FileManager", "Realm"],
+        "Storage": ["Core Data", "UserDefaults", "Realm"],
         "Networking": ["URLSession", "JSON Parsing", "REST API", "Firebase"],
-        "Multithreading": ["GCD", "Dispatch Queues"],
         "Architectural Patterns": ["MVC", "MVVM", "MVVM+C", "MVP", "MVP+C"],
-        "Structural Patterns": ["Delegate", "Singleton", "Factory", "Observer", "Facade"],
         "Version Control": ["Git", "GitHub"],
-        "Graphics": ["Figma", "Photoshop"],
-        "Other Technologies": ["SwiftUI", "MapKit", "Push/Local Notifications", "Multimedia (AVFoundation, Core Audio, AVKit)", "BLE", "iCloud", "Core Animation", "RxSwift", "App Store/TestFlight"],
+        "Graphics": ["Figma"],
+        "Other Technologies": ["SwiftUI", "MapKit", "Push/Local Notifications", "Multimedia (AVFoundation, Core Audio, AVKit)","App Store/TestFlight"],
         "Additional Knowledge": ["Unit Testing", "UI Testing", "Code Review", "Performance Optimization"]
     ]
     
@@ -49,5 +47,5 @@ class IOSDeveloper {
     }
 }
 
-let me = IOSDeveloper(name: "YourName", age: 25, languages: ["Swift"])
+let me = IOSDeveloper(name: "Edward", age: 26, languages: ["Swift"])
 me.introduce()
