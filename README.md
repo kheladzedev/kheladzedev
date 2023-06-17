@@ -35,7 +35,7 @@ class IOSDeveloper {
     }
     
     func introduce() {
-        print("Hi there! I'm \(name), an iOS Developer with \(age) years of experience.")
+        print("Hi there! I'm \(Edward), an iOS Developer with \(1) year of experience.")
         print("I specialize in developing iOS apps using Swift and have a strong skillset:")
         
         for (category, skills) in skills {
