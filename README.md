@@ -34,11 +34,6 @@ I thrive on tackling complex technical challenges and continuously improving app
 ![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=kheladzedev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kheladzedev&layout=compact&theme=radical)
 
-## 💡 Featured Projects
-Here are some of the projects I'm proud of:
-- [**E-Commerce App**](https://github.com/kheladzedev/e-commerce-app) - Developed a scalable app for an online store with smooth navigation and integrated payment systems.
-- [**Multimedia Streaming App**](https://github.com/kheladzedev/multimedia-streaming-app) - Created an app for high-performance multimedia streaming, reducing latency and improving user engagement.
-- [**Custom UI Kit**](https://github.com/kheladzedev/custom-ui-kit) - Built a reusable UI component library using Swift and UIKit for scalable iOS projects.
 
 ## 📫 How to reach me
 - Telegram: [@kheladzedev](https://t.me/kheladzedev)
