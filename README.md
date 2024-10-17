@@ -13,7 +13,6 @@ Throughout my career, I have worked on various projects, from **e-commerce** pla
 
 I believe in **clean code**, **modular architectures**, and a strong focus on app performance to create the best possible user experiences.
 
----
 
 ## ⚙️ Technologies & Tools
 
@@ -39,7 +38,7 @@ I believe in **clean code**, **modular architectures**, and a strong focus on ap
     <img src="https://img.shields.io/badge/CI%2FCD-00C853?style=for-the-badge&logo=continuous-integration&logoColor=white"/>
 </p>
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -48,7 +47,7 @@ I believe in **clean code**, **modular architectures**, and a strong focus on ap
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kheladzedev&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
+
 
 ## 📫 How to reach me
 
