@@ -14,7 +14,7 @@ I believe in **clean code**, **modular architectures**, and a deep focus on **ap
 
 
 
-## ⚙️ Technologies & Tools
+## 🛠 Stack
 
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
