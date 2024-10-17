@@ -64,7 +64,7 @@ I believe in **clean code**, **modular architectures**, and a deep focus on **ap
 ## 💬 Dynamic Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://i.pinimg.com/736x/c0/e4/3e/c0e43ef195d892ebb7d97ed57c609cbc.jpg" alt="Dev Quote" />
 </div>
 
 
