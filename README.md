@@ -40,12 +40,20 @@ I believe in **clean code**, **modular architectures**, and a deep focus on **ap
 
  
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kheladzedev&show_icons=true&theme=radical" alt="Edward's GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kheladzedev&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  
+  <!-- GitHub Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kheladzedev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Edward's GitHub Stats" width="50%" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kheladzedev&layout=compact&theme=radical" alt="Edward's Most Used Languages" width="40%" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kheladzedev&theme=radical" alt="Edward's GitHub Streak" width="50%" />
+
+</div>
 
 
 
