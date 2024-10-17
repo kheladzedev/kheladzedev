@@ -19,16 +19,27 @@ I thrive on tackling complex technical challenges and continuously improving app
 - 💬 Ask me about: **iOS development, architecture patterns, performance optimization**
 
 ## ⚙️ Technologies & Tools
-![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=swift)
-![UIKit](https://img.shields.io/badge/-UIKit-090909?style=for-the-badge&logo=uikit)
-![MVVM](https://img.shields.io/badge/-MVVM-090909?style=for-the-badge&logo=mvvm)
-![VIPER](https://img.shields.io/badge/-VIPER-090909?style=for-the-badge)
-![CoreData](https://img.shields.io/badge/-CoreData-090909?style=for-the-badge&logo=apple)
-![Alamofire](https://img.shields.io/badge/-Alamofire-090909?style=for-the-badge&logo=alamofire)
-![CocoaPods](https://img.shields.io/badge/-CocoaPods-090909?style=for-the-badge&logo=cocoapods)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase)
-![SnapKit](https://img.shields.io/badge/-SnapKit-090909?style=for-the-badge&logo=snapkit)
-![GCD](https://img.shields.io/badge/-GCD-090909?style=for-the-badge&logo=gcd)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-2C2E3E?style=for-the-badge&logo=m&logoColor=white)
+![VIPER](https://img.shields.io/badge/VIPER-764ABC?style=for-the-badge&logo=vip&logoColor=white)
+![CoreData](https://img.shields.io/badge/CoreData-1572B6?style=for-the-badge&logo=apple&logoColor=white)
+![Alamofire](https://img.shields.io/badge/Alamofire-EE4C2C?style=for-the-badge&logo=alamofire&logoColor=white)
+![CocoaPods](https://img.shields.io/badge/CocoaPods-E34F26?style=for-the-badge&logo=cocoapods&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![SnapKit](https://img.shields.io/badge/SnapKit-33B5E5?style=for-the-badge&logo=snapkit&logoColor=white)
+![GCD](https://img.shields.io/badge/GCD-FF4081?style=for-the-badge&logo=gcd&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![SDWebImage](https://img.shields.io/badge/SDWebImage-0A0A0A?style=for-the-badge&logo=sdwebimage&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-FF4785?style=for-the-badge&logo=combine&logoColor=white)
+![RxSwift](https://img.shields.io/badge/RxSwift-DD0B78?style=for-the-badge&logo=rxswift&logoColor=white)
+![XCTest](https://img.shields.io/badge/XCTest-83C9F4?style=for-the-badge&logo=xcode&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-00C853?style=for-the-badge&logo=continuous-integration&logoColor=white)
+
+
 
 ## 📈 GitHub Stats
 ![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=kheladzedev&show_icons=true&theme=radical)
