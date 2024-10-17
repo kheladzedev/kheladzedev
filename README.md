@@ -60,12 +60,6 @@ I believe in **clean code**, **modular architectures**, and a deep focus on **ap
 </div>
 
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kheladzedev&theme=radical" alt="GitHub Activity Graph" />
-</div>
-
 
 ## 💬 Dynamic Dev Quote
 
