@@ -1,13 +1,6 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=0EA293&center=true&vCenter=true&width=1000&lines=Hello+there!;I'm+Edward,+iOS+Developer" alt="Typing SVG" /></a>
-</h1>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/kheladzedev)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/kheladzedev)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/kheladzedev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/kheladzedev)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kheladzedev)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/kheladzedev)
 
 ## 🧑‍💻 About Me
 Hi, I'm Edward, an experienced iOS Developer with over 3 years of expertise in building scalable and adaptive applications. I have successfully worked on a wide range of projects, including e-commerce, multimedia streaming apps, and high-performance iOS applications. My core skills include Swift, UIKit, MVVM, VIPER, and performance optimization.
@@ -47,8 +40,12 @@ I thrive on tackling complex technical challenges and continuously improving app
 
 
 ## 📫 How to reach me
-- Telegram: [@kheladzedev](https://t.me/kheladzedev)
-- LinkedIn: [kheladzedev](https://www.linkedin.com/in/kheladzedev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kheladzedev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kheladzedev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kheladzedev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kheladzedev)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/kheladzedev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kheladzedev)
 
 ## 🖥️ A bit of code
 
