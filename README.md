@@ -1,6 +1,3 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=0EA293&center=true&vCenter=true&width=1000&lines=Hello+there!;I'm+Edward,+iOS+Developer" alt="Typing SVG" /></a></h1>
-
 
 
 ## 🧑‍💻 About Me
