@@ -50,9 +50,27 @@ I believe in **clean code**, **modular architectures**, and a deep focus on **ap
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kheladzedev&layout=compact&theme=radical" alt="Edward's Most Used Languages" width="40%" />
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kheladzedev&theme=radical" alt="Edward's GitHub Streak" width="50%" />
+</div>
 
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kheladzedev&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=kheladzedev&theme=radical" alt="GitHub Activity Graph" />
+</div>
+
+
+## 💬 Dynamic Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
 
