@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Edward**, a passionate iOS Developer with over **3 years** of experience crafting scalable, adaptive, and high-performance applications. 🚀 My expertise lies in **Swift**, **UIKit**, and using architectural patterns like **MVVM** and **VIPER** to create clean, maintainable code.
+Hello! I'm **Edward**, a passionate iOS Developer with over **5 years** of experience crafting scalable, adaptive, and high-performance applications. 🚀 My expertise lies in **Swift**, **UIKit**, and using architectural patterns like **MVVM** and **VIPER** to create clean, maintainable code.
 
 🛠 I’ve had the opportunity to work on a diverse range of projects, from **e-commerce platforms** to **multimedia streaming** apps, solving complex challenges and delivering solutions that enhance user experiences.
 
