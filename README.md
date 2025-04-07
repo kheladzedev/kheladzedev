@@ -2,15 +2,17 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Edward**, a passionate iOS Developer with over **5 years** of experience crafting scalable, adaptive, and high-performance applications. 🚀 My expertise lies in **Swift**, **UIKit**, and using architectural patterns like **MVVM** and **VIPER** to create clean, maintainable code.
+Hello! I’m Edward, a dedicated iOS Developer with over 5 years of experience building scalable, maintainable, and high-performance mobile applications. 🚀 I specialize in Swift, UIKit, and architectural patterns like MVVM and VIPER, always striving to deliver clean, modular code.
 
-🛠 I’ve had the opportunity to work on a diverse range of projects, from **e-commerce platforms** to **multimedia streaming** apps, solving complex challenges and delivering solutions that enhance user experiences.
+🛠 I’ve worked on a variety of projects, including e-commerce solutions and multimedia apps, where I tackled complex technical challenges and significantly improved product performance and user retention.
 
-- 🔭 **Currently working on**: Optimizing multimedia iOS apps for peak performance.
-- 🌱 **Currently learning**: **SwiftUI**, **Combine**, and **ARKit** to expand my skill set.
-- 💬 **Ask me about**: iOS development, architecture patterns, and performance optimization.
+🔭 Currently focused on: Enhancing multimedia apps for better speed, stability, and efficiency.
 
-I believe in **clean code**, **modular architectures**, and a deep focus on **app performance** to ensure the best possible experience for users. 💡
+🌱 Actively learning: SwiftUI, Combine, and ARKit to stay at the forefront of iOS innovation.
+
+💬 Let’s talk about: Mobile architecture, performance optimization, and scalable iOS solutions.
+
+I believe in clean architecture, automation, and performance-driven development to deliver outstanding user experiences and support business growth. 💡
 
 
 
