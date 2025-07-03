@@ -9,7 +9,7 @@ Hello! I’m Edward, an experienced iOS Developer with 6+ years of hands-on prac
 📱 I’ve contributed to eCommerce, digital services, and internal tools — from MVP to production. My work has helped improve app retention, stability, and release speed through analytics, CI/CD, and core logic improvements.
 
 🧩 Key areas of expertise:
-– CI/CD (Fastlane, GitHub Actions)
+– CI/CD
 – Firebase & Appsflyer integration
 – WebView optimization
 – Offline-first architecture
