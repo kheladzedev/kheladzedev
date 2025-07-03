@@ -2,17 +2,25 @@
 
 ## 👨‍💻 About Me
 
-Hello! I’m Edward, a dedicated iOS Developer with over 5 years of experience building scalable, maintainable, and high-performance mobile applications. 🚀 I specialize in Swift, UIKit, and architectural patterns like MVVM and VIPER, always striving to deliver clean, modular code.
+Hello! I’m Edward, an experienced iOS Developer with 6+ years of hands-on practice in building stable, scalable, and high-performance mobile applications.
 
-🛠 I’ve worked on a variety of projects, including e-commerce solutions and multimedia apps, where I tackled complex technical challenges and significantly improved product performance and user retention.
+🔧 I work with Swift, UIKit, and SwiftUI, using architectural patterns like MVVM and MVC. I focus on clean, modular code, robust architecture, and performance optimization.
 
-🔭 Currently focused on: Enhancing multimedia apps for better speed, stability, and efficiency.
+📱 I’ve contributed to eCommerce, digital services, and internal tools — from MVP to production. My work has helped improve app retention, stability, and release speed through analytics, CI/CD, and core logic improvements.
 
-🌱 Actively learning: SwiftUI, Combine, and ARKit to stay at the forefront of iOS innovation.
+🧩 Key areas of expertise:
+– CI/CD (Fastlane, GitHub Actions)
+– Firebase & Appsflyer integration
+– WebView optimization
+– Offline-first architecture
+– Custom UI/UX with SwiftUI and UIKit
+– REST & GraphQL API integration
 
-💬 Let’s talk about: Mobile architecture, performance optimization, and scalable iOS solutions.
+📈 I’m interested in mobile infrastructure, analytics, and scalable solutions that bring measurable business impact.
 
-I believe in clean architecture, automation, and performance-driven development to deliver outstanding user experiences and support business growth. 💡
+Currently expanding expertise in Combine, ARKit, and advanced SwiftUI.
+
+Let’s connect if you’re looking for someone who takes responsibility for delivering reliable, production-grade iOS applications.
 
 
 
