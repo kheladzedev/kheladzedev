@@ -1,29 +1,3 @@
-
-
-## 👨‍💻 About Me
-
-Hello! I’m Edward, an experienced iOS Developer with 6+ years of hands-on practice in building stable, scalable, and high-performance mobile applications.
-
-🔧 I work with Swift, UIKit, and SwiftUI, using architectural patterns like MVVM and MVC. I focus on clean, modular code, robust architecture, and performance optimization.
-
-📱 I’ve contributed to eCommerce, digital services, and internal tools — from MVP to production. My work has helped improve app retention, stability, and release speed through analytics, CI/CD, and core logic improvements.
-
-🧩 Key areas of expertise:
-– CI/CD
-– Firebase & Appsflyer integration
-– WebView optimization
-– Offline-first architecture
-– Custom UI/UX with SwiftUI and UIKit
-– REST & GraphQL API integration
-
-📈 I’m interested in mobile infrastructure, analytics, and scalable solutions that bring measurable business impact.
-
-Currently expanding expertise in Combine, ARKit, and advanced SwiftUI.
-
-Let’s connect if you’re looking for someone who takes responsibility for delivering reliable, production-grade iOS applications.
-
-
-
 ## 🛠 Stack
 
 <p align="center">
